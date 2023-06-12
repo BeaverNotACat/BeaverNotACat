@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Vanya
 
-- 🔭 I’m currently working for the... "EGE" preaparation 🥲
 - 🌱 I’m currently learning
   - Backend Development 💻 
   - CyberSec 👾
