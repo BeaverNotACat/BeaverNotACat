@@ -3,10 +3,12 @@
 <br/>
 I am backend dev that tries to love js and become fullstack.
 I love the whole IT sphere and also interested in
-- Data science
-- DevSecOps
-- Pentest
-- System administration and system programming
+<ul>
+  <li>Data science</li>
+  <li>DevSecOps</li>
+  <li>Pentest</li>
+  <li>System administration and system programming</li>
+</ul>
 <br/>
 
 ### 🤝 Connect With Me
