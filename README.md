@@ -2,13 +2,15 @@
 <h2  align="center">My passions are coffee brewing and people's problems solving </h2>
 <br/>
 I am backend dev that tries to love js and become fullstack.
-<ul>  
-I love the whole IT sphere and also interested in
-  <li>Data science</li>
-  <li>DevSecOps</li>
-  <li>Pentest</li>
-  <li>System administration and system programming</li>
-</ul>
+<div>
+  I love the whole IT sphere and also interested in
+  <ul> 
+    <li>Data science</li>
+    <li>DevSecOps</li>
+    <li>Pentest</li>
+    <li>System administration and system programming</li>
+  </ul>
+</div>
 <br/>
 
 ### 🤝 Connect With Me
