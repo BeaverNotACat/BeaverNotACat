@@ -10,7 +10,6 @@ I love the whole IT sphere and also interested in
   <li>System administration and system programming</li>
 </ul>
 <br/>
-
 ### 🤝 Connect With Me
 I'll be glad to collaborate or have a short talk
 Also one day i'll make a whole website with the blog about IT. But for now you can check my [tg channel](https://t.me/beavernac) with shitposting and thoughts
