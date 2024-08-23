@@ -2,6 +2,7 @@
 <h2  align="center">My passions are coffee brewing and people's problems solving </h2>
 <br/>
 I am backend dev that tries to love js and become fullstack.
+
 I love the whole IT sphere and also interested in
 <ul>
   <li>Data science</li>
