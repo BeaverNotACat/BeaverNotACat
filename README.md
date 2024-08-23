@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Vanya</h1>
-<h2  align="center">My passion is brewing coffee and solving people's problems </h2>
+<h2  align="center">My passions are coffee brewing and people's problems solving </h2>
 <br/>
 I am backend dev that tries to love js and become fullstack.
 I love the whole IT sphere and also interested in
