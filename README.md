@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Vanya</h1>
-<h2  align="center">Ьy calling is to solve problems</h2>
-<br />
+<h2  align="center">My passion is to is solving people's problems and making world a little better</h2>
+<br/>
 I am backend dev that tries to love js and become fullstack.
 I love the whole IT sphere and also interested in
 - Data science
@@ -11,7 +11,7 @@ I love the whole IT sphere and also interested in
 
 ### 🤝 Connect With Me
 I'll be glad to collaborate or have a short talk
-Also one day i'll make a whole website with the blog about IT. But for now you can check my [tg channel](https://t.me/beavernac) with shitposting and thoughts
+Also one day i'll make a whole website with the blog about IT. But for now you can check my [tg channel](https://t.me/beavernac) with shitposting and thoughts\n
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beavernotacat/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BeaverNotACat)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/354177140087980042)
